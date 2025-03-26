@@ -1,0 +1,23 @@
+.header-container {
+    display: flex;
+    align-items: center;
+}
+
+.header-text {
+    margin-left: 20px;
+}
+
+header {
+    padding-top: 1.5em;
+    padding-bottom: 2em;
+    background: linear-gradient(30deg, #f6bb73 0%, #f6bb73 30%, white 50%, #f6bb73 80%, #f6bb73 100%);
+}
+
+header img {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+header h2, header h3 {
+    text-indent: 0;
+}
