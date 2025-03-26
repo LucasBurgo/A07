@@ -2,12 +2,7 @@ main {
     padding-left: 30px;
     padding-right: 30px;
 }
-body {
-			width: 600px;
-			margin: 0auto;
-			border: 3px solid #931420;
-			background-color: #fffded;
-		}
+
 blockquote {
     font-style: italic;
 }
